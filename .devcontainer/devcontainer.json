@@ -18,7 +18,6 @@
       }
     }
   },
-  "postCreateCommand": "git clone https://github.com/spaa-datos-dev/SiGITA_backend.git ./backend && git clone https://github.com/spaa-datos-dev/SiGITA_frontend.git ./frontend",
   "forwardPorts": [],
   "remoteUser": "codespace"
 }
